@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO01_Araliktami", "WO01_Ara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO02_UcSayiEnBuyukEnKucukToplamOrtalama", "WO02_UcSayiEnBuyukEnKucukToplamOrtalama\WO02_UcSayiEnBuyukEnKucukToplamOrtalama.csproj", "{EFAD17A9-8FF0-4978-8A5B-D33EFE840D10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO03_Girilen20YasIcindenAraliktakiniBulma", "WO03_Girilen20YasIcindenAraliktakiniBulma\WO03_Girilen20YasIcindenAraliktakiniBulma.csproj", "{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EFAD17A9-8FF0-4978-8A5B-D33EFE840D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFAD17A9-8FF0-4978-8A5B-D33EFE840D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFAD17A9-8FF0-4978-8A5B-D33EFE840D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
