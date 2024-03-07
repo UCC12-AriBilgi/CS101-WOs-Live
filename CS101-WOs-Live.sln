@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO02_UcSayiEnBuyukEnKucukTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO03_Girilen20YasIcindenAraliktakiniBulma", "WO03_Girilen20YasIcindenAraliktakiniBulma\WO03_Girilen20YasIcindenAraliktakiniBulma.csproj", "{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO04_SifirGireneKadarToplamVeOrtalama", "WO04_SifirGireneKadarToplamVeOrtalama\WO04_SifirGireneKadarToplamVeOrtalama.csproj", "{A21C4F0B-A3EA-4ECF-BC7B-410455EB461C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3110E291-DB7E-4EFA-98FD-FA6F59FE74BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21C4F0B-A3EA-4ECF-BC7B-410455EB461C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21C4F0B-A3EA-4ECF-BC7B-410455EB461C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21C4F0B-A3EA-4ECF-BC7B-410455EB461C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21C4F0B-A3EA-4ECF-BC7B-410455EB461C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
